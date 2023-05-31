@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="blood_main">#57ABED</color>
+    <color name="blue_main">#28AFA2</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="progress_red">#FF0000</color>
+    <color name="progress_orange">#FF5C27</color>
+    <color name="progress_green">#3BB540</color>
+    <color name="red_bg_color">#F8C3C3</color>
+    <color name="blue_bg_color">#D1E9F4</color>
+    <color name="blue_frame_color">#A8E1FB</color>
+    <color name="red_frame_color">#F8A9AF</color>
+
+    <color name="picker_red">#FF0000</color>
+    <color name="picker_green">#3BB540</color>
+    <color name="picker_blue">#072DFF</color>
+    <color name="picker_black">#2E2E2E</color>
+    <color name="picker_yellow">#FFEB3B</color>
+    <color name="picker_orange">#FF5C27</color>
+    <color name="picker_brown">#391E15</color>
+    <color name="picker_fealetovey">#673AB7</color>
+    <color name="picker_golyboy">#03A9F4</color>
+    <color name="picker_rozovie">#E91E63</color>
+    <color name="picker_bbxx">#B89AF7</color>
+    <color name="picker_thight_green">#89FF00</color>
+    <color name="picker_down">#A7FFEB</color>
+    <color name="picker_bluess">#82B1FF</color>
+    <color name="picker_redoss">#FF8A80</color>
+    <color name="picker_sunes">#8C9EFF</color>
+    <color name="grey_tvInfo">#B1CBE4</color>
+    <color name="red_light">#FD4646</color>
+    <color name="red_dark">#7E1E29</color>
+
+</resources>
