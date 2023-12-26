@@ -1,6 +1,6 @@
 # ShopList
 
-##Stack
+## Stack
 * Kotlin
 * Coroutine
 * Flow
